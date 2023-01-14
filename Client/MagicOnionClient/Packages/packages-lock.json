@@ -7,8 +7,22 @@
       "dependencies": {},
       "url": "https://package.openupm.com"
     },
+    "com.cysharp.unitask": {
+      "version": "2.3.3",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://package.openupm.com"
+    },
     "com.neuecc.messagepack": {
       "version": "2.3.85",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://package.openupm.com"
+    },
+    "com.neuecc.unirx": {
+      "version": "7.1.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {},
